@@ -76,5 +76,5 @@ Identify "Prime Customers" who maintain low credit utilization and consistent on
 ```text
 ├── data/                   # Dataset source files
 ├── notebooks/              # Exploratory Data Analysis & Modeling
-├── visuals/                # Exported charts and performance graphs
+├── presentation/           # The pitch deck for key insights
 └── README.md               # Project documentation
